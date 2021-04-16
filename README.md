@@ -1,10 +1,10 @@
 ### Hi there guys 👋
 
-I'm Eequiis, a software developer, engineering student and guitarist. Why not right? :)
+I'm Eequiis, a .NET developer and guitarist. Why not right? :)
 
-Although I'm still studying at university, I work for a software enterprise, currently using .NET and Xamarin platforms (C# and XAML), creating little size apps (less than 10K lines each) for other businesses (internal usage).
+I'm currently working with .NET and Xamarin (mainly C# and XAML), for building mobile apps for other businesses internal usage.
 
-I love C, bash and Linux, know a bit of C++ and Pascal, and a lot of Java and design patterns.
+I love C, bash and Linux, know a bit of C++ and Pascal, and a lot of Java, C# and design patterns.
 
 You can find me over [Stack Overflow ES](https://es.stackoverflow.com/users/65833/eequiis-v%c3%a1squez).
 
