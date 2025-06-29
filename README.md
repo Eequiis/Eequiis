@@ -2,7 +2,7 @@
 
 I'm Eequiis, a .NET developer and guitarist. Why not right? :)
 
-I'm currently working with .NET and Xamarin (mainly C# and XAML), for building mobile apps for other businesses internal usage.
+I'm currently working with .NET, Xamarin and MAUI (mainly C# and XAML), for building enterprise mobile apps.
 
 I love C, bash and Linux, know a bit of C++ and Pascal, and a lot of Java, C# and design patterns.
 
